@@ -1,0 +1,10 @@
+[package]
+name = "lastweet"
+version = "0.0.1"
+authors = [ "Homma Takuma <sfprhythnn@gmail.com>" ]
+
+[dependencies]
+hyper = "0.9.10"
+oauthcli = "0.1.2"
+serde_json = "0.8.1"
+serde_yaml = "0.4.0"
